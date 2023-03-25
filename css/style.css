@@ -531,8 +531,8 @@ img {
 
 .footer-follow li {
 	display: inline-block;
-	margin-right: 3px;
-	margin-left: 3px;
+	margin-right: 5px;
+	margin-left: 5px;
 }
 
 .footer-follow li a {
@@ -833,7 +833,7 @@ img {
 .sticky-icon {
 	z-index: 9999;
 	position: fixed;
-	top: 31%;
+	top: 35%;
 	right: -130px;
 	width: 172px;
 	display: flex;
