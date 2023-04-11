@@ -60,7 +60,7 @@ $(function() {
 	$(document).ready(function() {
 		var i, stop;
 		i = 1;
-		stop = 5;
+		stop = 4;
 		setInterval(function() {
 			if (i > stop) {
 				return;
