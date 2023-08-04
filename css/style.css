@@ -1243,6 +1243,10 @@ img {
 	transform: translateY(-4px) rotate(135deg);
 }
 
+#nav.navbar>.container {
+	width: 90% !important;
+}
+
 .bounce {
 	animation-name: bounce-animation;
 	animation-duration: 2s;
