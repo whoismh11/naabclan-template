@@ -367,6 +367,12 @@ img {
 	font-size: 16px;
 }
 
+.logo span {
+	letter-spacing: 4px;
+	font-size: 14px;
+	color: #348194;
+}
+
 .logo>a>img {
 	margin-right: auto;
 	margin-left: auto;
