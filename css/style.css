@@ -293,6 +293,10 @@
 	padding: 0;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	background: linear-gradient(-45deg, #13333B, #080D0F, #13333B, #080D0F, #13333B, #080D0F);
 	background-size: 400% 200%;
@@ -501,6 +505,7 @@ img {
 	border-radius: 50%;
 	background-color: #080D0F;
 	border: 5px double #348194;
+	box-shadow: 0 0 6px rgba(52, 129, 148, 0.7);
 }
 
 .members .overlay {
