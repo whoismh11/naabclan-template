@@ -1399,3 +1399,23 @@ img {
 		transform: translateY(0);
 	}
 }
+
+.h_iframe-aparat_embed_frame {
+	position: relative;
+}
+
+.h_iframe-aparat_embed_frame .ratio {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.h_iframe-aparat_embed_frame iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: 2px solid #348194;
+	box-shadow: 0 0 34px rgba(52, 129, 148, 0.7);
+}
